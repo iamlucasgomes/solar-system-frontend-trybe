@@ -23,7 +23,7 @@
 
 ## Deploy
 
-Você pode acessar a aplicação rodando clicando <strong><a href="https://iamlucasgomes.com/shopping-cart-frontend-trybe/" target="_blank" rel="noopener noreferrer">aqui</a></strong>
+Você pode acessar a aplicação rodando clicando <strong><a href="https://iamlucasgomes.com/solar-system-frontend-trybe/" target="_blank" rel="noopener noreferrer">aqui</a></strong>
 
 <div align="center">
   <br />
